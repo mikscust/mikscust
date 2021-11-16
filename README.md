@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=ke2" width="400" alt="Mikaela Custodio's Dev Card"/></a>
-
 <!--
 **mikscust/mikscust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
