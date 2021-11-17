@@ -52,7 +52,12 @@
 
   <!-- GitHub Stats -->
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikscust&show_icons=true&theme=dark)](https://github.com/mikscust/github-readme-stats)
+  
+  <!-- WakaTime Stats -->
+  <img src="https://wakatime.com/share/@d2068e23-cb59-419d-b27d-8a0f95c06d93/66864500-7b4e-4725-bf0d-ebc62a8097c8.svg" height="300" />
+
+  
+
 </a>
 <!-- Stats Section (END) -->
 
@@ -63,7 +68,14 @@
   </h2>
   
   <!-- DevCard -->
-  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
+  <p align="center">
+    <a href="https://app.daily.dev/mikscust">
+      <img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/>
+    </a>
+  </p>
+</a>
+  
+    
 <!-- DevCard Section (END) -->
 
 ------------------------------------
