@@ -63,7 +63,7 @@
   </h2>
   
   <!-- DevCard -->
-  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="250" alt="Mikaela Custodio's Dev Card"/></a>
+  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
 <!-- DevCard Section (END) -->
 
 ------------------------------------
