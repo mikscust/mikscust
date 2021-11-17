@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?mikscust&color=lightgrey&style=plastic&label=Profile+Views)
-
 <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
 
 <!--
