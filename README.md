@@ -1,19 +1,15 @@
-### 👋 Hello there!
+### 👋 Hello there! ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 
 🌱 I’m currently learning web development at Avion School.
 
 ## Keep In Touch!
 
 <p>
-
   <a href="mailto:greetingsmikaela@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
   </a>
-
 </p>
 
-<!-- Profile View Counter -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true)
