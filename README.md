@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/)
+🌱 I’m currently learning web development at Avion School.
 
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
