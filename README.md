@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/mikscust/mikscust.svg?style=flat-square)](http://hits.dwyl.com/mikscust/mikscust)
+
 <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
 
 <!--
