@@ -3,7 +3,7 @@
 🌱 I’m currently learning web development at Avion School.
 
 Keep In Touch:
-(https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)[Protonmail]
+[(https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][Protonmail]
 
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
