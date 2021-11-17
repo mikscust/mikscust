@@ -52,6 +52,7 @@
 
   <!-- GitHub Stats -->
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikscust&show_icons=true&theme=dark)](https://github.com/mikscust/github-readme-stats)
 </a>
 <!-- Stats Section (END) -->
 
@@ -62,9 +63,12 @@
   </h2>
   
   <!-- DevCard -->
-  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
+  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="250" alt="Mikaela Custodio's Dev Card"/></a>
 <!-- DevCard Section (END) -->
 
+------------------------------------
+  
+<!--
 
 **mikscust/mikscust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,4 +82,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
