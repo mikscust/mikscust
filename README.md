@@ -1,9 +1,15 @@
-### Hi there 👋
+### 👋 Hello there!
 
 🌱 I’m currently learning web development at Avion School.
 
-Keep In Touch:
-[(https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][Protonmail]
+## Keep In Touch!
+
+<p>
+  <a href="greetingsmikaela@protonmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
+  </a>
+ </p>
+
 
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
@@ -14,9 +20,9 @@ Keep In Touch:
 ## DevCard
 <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
 
-<!-- Emails -->
+<!-- Emails
 [Protonmail]: greetingsmikaela@protonmail.com
-[Tutanota]: greetingsmika@tuta.io
+[Tutanota]: greetingsmika@tuta.io -->
 
 <!--
 **mikscust/mikscust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
