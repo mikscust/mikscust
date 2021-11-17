@@ -1,14 +1,22 @@
-### 👋 Hello there, learner! ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
+### 👋 Hello there, learner! 
 
-## About Me
+
+
+## About Me ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 🌱 I’m currently learning web development at Avion School.
 
 ## Keep In Touch!
-
 <p>
+  <!-- Protonmail -->
   <a href="mailto:greetingsmikaela@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
   </a>
+  
+  <!-- Tutanota -->
+  <a href="mailto:greetingsmika@tuta.io">
+    <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="Tutanota" />
+  </a>
+  
 </p>
 
 
