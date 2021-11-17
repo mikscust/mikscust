@@ -1,5 +1,6 @@
-### 👋 Hello there! ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
+### 👋 Hello there, learner! ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 
+## About Me
 🌱 I’m currently learning web development at Avion School.
 
 ## Keep In Touch!
