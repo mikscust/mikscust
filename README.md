@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/mikscust/mikscust.svg?style=flat-square)](http://hits.dwyl.com/mikscust/mikscust)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true)
 
