@@ -47,7 +47,7 @@
 <!-- Stats Section (START) -->
 <a align="center">
   <h2 align="center">
-    Stats
+    📊 Stats
   </h2>
 
   <!-- GitHub Stats -->
