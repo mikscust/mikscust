@@ -5,12 +5,12 @@
 ## Keep In Touch!
 
 <p>
-  <a>
-  <mailto:greetingsmikaela@protonmail.com>
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
-  </a>
- </p>
 
+  <a href="mailto:greetingsmikaela@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
+  </a>
+
+</p>
 
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
