@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 <!-- Profile View Counter -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
 
