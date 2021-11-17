@@ -5,7 +5,8 @@
 ## Keep In Touch!
 
 <p>
-  <a href="greetingsmikaela@protonmail.com">
+  <a>
+  <mailto:greetingsmikaela@protonmail.com>
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
   </a>
  </p>
