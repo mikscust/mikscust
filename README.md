@@ -18,7 +18,7 @@
   </p>
   
   <!-- Profile View Counts -->
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=mikscust)
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mikscust)
 </a>
 <!-- About Me Section (END)-->
 
