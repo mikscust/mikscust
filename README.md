@@ -8,7 +8,7 @@
 <!-- Introduction Section (END) -->
 
 <!-- About Me Section (START)-->
-<a>
+<a align="center">
   <h2 align="center">
     👩 About Me
   </h2>
@@ -51,13 +51,18 @@
   </h2>
 
   <!-- GitHub Stats -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
 </a>
 <!-- Stats Section (END) -->
 
 <!-- DevCard Section (START) -->
-## DevCard
-<a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
+<a align="canter">
+  <h2 align="center">
+   ◼️ DevCard
+  </h2>
+  
+  <!-- DevCard -->
+  <a href="https://app.daily.dev/mikscust"><img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/></a>
 <!-- DevCard Section (END) -->
 
 
