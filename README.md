@@ -56,6 +56,9 @@
 </a>
 <!-- Stats Section (END) -->
 
+  <!-- WakaTime Stats -->
+  <figure><embed src="https://wakatime.com/share/@d2068e23-cb59-419d-b27d-8a0f95c06d93/b95ce511-f443-4ca0-b5d0-7904e372ab68.svg"></embed></figure>
+
 <!-- DevCard Section (START) -->
 <a align="canter">
   <h2 align="center">
