@@ -1,6 +1,6 @@
 <!-- Introduction Section (START)-->
 
-<h1 align="center">
+<h1>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   Hello there, I'm Mika!
 </h1>
@@ -8,12 +8,12 @@
 <!-- Introduction Section (END) -->
 
 <!-- About Me Section (START)-->
-<a align="center">
-  <h2 align="center">
+<a>
+  <h2>
     👩 About Me
   </h2>
 
-  <p align="center">
+  <p>
     🌱 I’m currently learning web development at Avion School.
   </p>
   
@@ -24,19 +24,19 @@
 
 <!-- Contact Section (START)-->
 <a>
-  <h2 align="center">
+  <h2>
     📬 Keep In Touch 
   </h2>
   
   <!-- Protonmail -->
-  <p align="center">
+  <p>
     <a href="mailto:greetingsmikaela@protonmail.com">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" />
     </a>
   </p>
    
   <!-- Tutanota -->
-  <p align="center">
+  <p>
     <a href="mailto:greetingsmika@tuta.io">
       <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="Tutanota" />
     </a>
@@ -45,8 +45,8 @@
  <!-- Contact Section (END)-->
 
 <!-- Stats Section (START) -->
-<a align="center">
-  <h2 align="center">
+<a>
+  <h2>
     📊 Stats
   </h2>
 
@@ -62,20 +62,16 @@
 <!-- Stats Section (END) -->
 
 <!-- DevCard Section (START) -->
-<a align="canter">
-  <h2 align="center">
+<a>
+  <h2>
    ◼️ DevCard
   </h2>
   
   <!-- DevCard -->
-  <p align="center">
-    <a href="https://app.daily.dev/mikscust">
-      <img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=kqg" width="400" alt="Mikaela Custodio's Dev Card"/>
-    </a>
-  </p>
+  <a href="https://app.daily.dev/mikscust">
+    <img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=4ru" width="400" alt="Mikaela Custodio's Dev Card"/>
+  </a>
 </a>
-  
-    
 <!-- DevCard Section (END) -->
 
 ------------------------------------
