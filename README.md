@@ -59,7 +59,7 @@
 
   <!-- GitHub Stats -->
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
-  
+
   <!-- WakaTime Stats -->
   <img src="https://wakatime.com/share/@d2068e23-cb59-419d-b27d-8a0f95c06d93/66864500-7b4e-4725-bf0d-ebc62a8097c8.svg" height="300" />
 
