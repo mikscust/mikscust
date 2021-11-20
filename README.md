@@ -1,10 +1,16 @@
-<!-- Introduction Section (START)-->
+<!-- Banner Section (START) -->
+[![M I K A E L A, a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
+<!-- Banner Section (END) -->
 
+<!-- Number Of Visitors (START) --> 
+[![Visitor Counter for mikscust](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=mikscust)](https://pimp-my-readme.webapp.io)
+<!-- Number Of Visitors (END) --> 
+
+<!-- Introduction Section (START)-->
 <h1>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-  Hello there, I'm Mika!
+  Hello there, learner!
 </h1>
-
 <!-- Introduction Section (END) -->
 
 <!-- About Me Section (START)-->
@@ -16,9 +22,6 @@
   <p>
     🌱 I’m currently learning web development at Avion School.
   </p>
-  
-  <!-- Profile View Counts -->
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mikscust)
 </a>
 <!-- About Me Section (END)-->
 
