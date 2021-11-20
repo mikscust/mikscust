@@ -1,10 +1,14 @@
 <!-- Banner Section (START) -->
-[![M I K A E L A, a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
+[![M I K A E L A, 🍃a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%F0%9F%8D%83a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
 <!-- Banner Section (END) -->
 
 <!-- Number Of Visitors (START) --> 
 [![Visitor Counter for mikscust](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=mikscust)](https://pimp-my-readme.webapp.io)
 <!-- Number Of Visitors (END) --> 
+
+<!-- Short Welcome (START) -->
+[![< W E L C O M E />](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=%253C%2520W%2520E%2520L%2520C%2520O%2520M%2520E%2520%252F%253E)](https://pimp-my-readme.webapp.io)
+<!-- Short Welcome (END) -->
 
 <!-- Introduction Section (START)-->
 <h1>
