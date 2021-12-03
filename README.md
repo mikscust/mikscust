@@ -3,7 +3,7 @@
 <!-- Banner Section (END) -->
 
 <!-- Number Of Visitors (START) --> 
-[![Visitor Counter for mikscust](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=mikscust)}](https://pimp-my-readme.webapp.io)
+[![Visitor Counter for mikscust](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=mikscust)](https://pimp-my-readme.webapp.io)
 <!-- Number Of Visitors (END) --> 
 
 <!-- Short Welcome (START) -->
