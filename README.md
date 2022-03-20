@@ -22,7 +22,7 @@
   </h2>
 
   <p>
-    🌱 I’m currently learning web development at Avion School.
+    🌱 I’m currently learning web development by myself and with the help of Avion School.
   </p>
 </a>
 <!-- About Me Section (END)-->
