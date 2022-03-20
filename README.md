@@ -74,10 +74,6 @@
 </a>
 <!-- DevCard Section (END) -->
 
-<!-- Number Of Learners or Visitors (START) --> 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mikscust.visitor-badge&left_color=black&right_color=gray&left_text=learners)
-<!-- Number Of Learners or Visitors (END) --> 
-
 ------------------------------------
   
 <!--
