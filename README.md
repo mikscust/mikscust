@@ -49,30 +49,6 @@
  </a>
  <!-- Contact Section (END)-->
 
-<!-- Stats Section (START) -->
-<a>
-  <h2>
-    📊 Stats
-  </h2>
-
-  <!-- GitHub Stats -->
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikscust&show_icons=true&theme=dark)
-  
-</a>
-<!-- Stats Section (END) -->
-
-<!-- DevCard Section (START) -->
-<a>
-  <h2>
-   ◼️ DevCard
-  </h2>
-  
-  <!-- DevCard -->
-  <a href="https://app.daily.dev/mikscust">
-    <img src="https://api.daily.dev/devcards/340ed67d06554792909c86de0885fdc3.png?r=4ru" width="400" alt="Mikaela Custodio's Dev Card"/>
-  </a>
-</a>
-<!-- DevCard Section (END) -->
 
 ------------------------------------
   
