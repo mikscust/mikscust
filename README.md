@@ -1,20 +1,3 @@
-<!-- Banner Section (START) -->
-[![🍃a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%F0%9F%8D%83a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
-<!-- Banner Section (END) -->
-
-<!-- Short Welcome (START) -->
-[![< W E L C O M E />](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=%253C%2520W%2520E%2520L%2520C%2520O%2520M%2520E%2520%252F%253E)](https://pimp-my-readme.webapp.io)
-<!-- Short Welcome (END) -->
-
-<!-- Introduction Section (START)-->
-<a>
- <h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-    Hello there, learner! 
-</h1>
- </a>
-<!-- Introduction Section (END) -->
-
 <!-- About Me Section (START)-->
 <a>
   <h2>
