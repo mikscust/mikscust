@@ -1,5 +1,5 @@
 <!-- Banner Section (START) -->
-[![M I K A E L A, 🍃a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%F0%9F%8D%83a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
+[![🍃a lifelong learner 🍃](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%F0%9F%8D%83a%20lifelong%20learner%20%F0%9F%8D%83&title=M%20I%20K%20A%20E%20L%20A)](https://pimp-my-readme.webapp.io)
 <!-- Banner Section (END) -->
 
 <!-- Short Welcome (START) -->
