@@ -22,7 +22,7 @@
   </h2>
 
   <p>
-    🌱 I’m currently learning how to understand computers.
+    🌱 I’m currently learning how to understand programming.
   </p>
 </a>
 <!-- About Me Section (END)-->
