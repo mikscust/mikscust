@@ -23,13 +23,6 @@
     </a>
   </p>
    
-  <!-- Tutanota -->
-  <p>
-    <a href="mailto:greetingsmika@tuta.io">
-      <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt="Tutanota" />
-    </a>
-  </p>
- </a>
  <!-- Contact Section (END)-->
 
 
